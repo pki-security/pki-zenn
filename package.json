@@ -1,0 +1,11 @@
+{
+  "name": "pki-zenn-content",
+  "private": true,
+  "scripts": {
+    "preview": "zenn preview",
+    "list": "zenn list:articles"
+  },
+  "devDependencies": {
+    "zenn-cli": "0.5.4"
+  }
+}
