@@ -14,7 +14,7 @@ published: true
 
 ### 全体の移行計画を先に確認したい方へ
 
-**[PKIちゃんねる：証明書短命化のロードマップと図解を見る](https://pki-channel.com/ja/articles/cert-47day-roadmap)**
+**[PKIちゃんねる：証明書短命化のロードマップと図解を見る](https://pki-channel.com/ja/articles/cert-47day-roadmap?utm_source=zenn.dev&utm_medium=referral&utm_campaign=owned_media&utm_content=own-b002-3)**
 
 棚卸しや例外機器を含めた対象範囲の整理に使える資料です。本記事では、その計画を「証明書」と「検証経路」の台帳・受入条件へ落とし込みます。PKIちゃんねるはこの記事の著者が運営しています。
 
@@ -69,7 +69,7 @@ DNS APIの資格情報を使う場合、台帳へ書くのは秘密情報の保�
 
 ### DNSの操作先と権限を具体化する
 
-**[PKIちゃんねる：DNS-01の権限・委任・伝播待ちを確認する](https://pki-channel.com/ja/articles/acme-dns-01-guide)**
+**[PKIちゃんねる：DNS-01の権限・委任・伝播待ちを確認する](https://pki-channel.com/ja/articles/acme-dns-01-guide?utm_source=zenn.dev&utm_medium=referral&utm_campaign=owned_media&utm_content=own-b002-1)**
 
 検証経路の台帳を埋める際に、DNS APIの権限範囲、検証用ゾーンの委任、伝播待ちを確認できます。操作先と管理者を決めるための補足資料です。
 
@@ -119,7 +119,7 @@ ACME Renewal Information（ARI）は、CAが更新を勧める時間帯をクラ
 
 ## 次に、配置・反映・配信確認を実装へ落とす
 
-**[PKIちゃんねる：ACME更新の運用設計と障害の切り分けを読む](https://pki-channel.com/ja/articles/acme-renewal-deployment-design)**
+**[PKIちゃんねる：ACME更新の運用設計と障害の切り分けを読む](https://pki-channel.com/ja/articles/acme-renewal-deployment-design?utm_source=zenn.dev&utm_medium=referral&utm_campaign=owned_media&utm_content=own-b002-2)**
 
 台帳と受入条件が決まったら、工程ごとの成功条件と、配置・切替・外部観測のコード例へ進めます。コード例の対象環境と実機未検証の範囲を確認したうえで、配備処理の設計資料として使ってください。
 
