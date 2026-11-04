@@ -37,10 +37,6 @@ DNS-account-01: _<アカウント由来ラベル>._acme-challenge.example.org
 
 ![DNS検証の仕組み 4/4](/images/dns-account-label-delegation-draft04/mobile-4.png)
 
-PC向けに全体をまとめた図も用意しました。
-
-![dns-account-01の全体像](/images/dns-account-label-delegation-draft04/desktop.png)
-
 ## 設計時に記録すること
 
 |項目|運用上の確認|
